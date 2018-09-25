@@ -1,0 +1,2 @@
+# hello-word-android-hwa-
+History of Android, is a small attempt to summarize the chronology of the Android world over time. With its different characteristics and main aspects in each of its versions. | Historia del Androide, es un pequeño intento de resumen de la  cronología del mundo Androide a lo largo del tiempo. Con sus diferentes características y principales aspectos en cada una de sus versiones.
